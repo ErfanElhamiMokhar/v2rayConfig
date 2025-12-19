@@ -1,6 +1,6 @@
 # Config Generator
 
-![Config Management Panel](https://rozup.ir/view/4169612/Screenshot 2025-12-19 at 18-27-41 رایدا کانفیگ دریافت کانفیگ رایگان V2Ray.png)
+![Dashboard Picture](https://rozup.ir/view/4169613/picture.png)
 
 **A powerful, free config generator for V2Ray/Xray protocols with an intuitive management panel.**
 
